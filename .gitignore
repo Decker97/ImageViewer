@@ -45,3 +45,28 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.suo
+ImageViewer/bin/Debug/ImageViewer.exe
+ImageViewer/bin/Debug/ImageViewer.exe.config
+*.pdb
+ImageViewer/bin/Debug/ImageViewer.vshost.exe
+ImageViewer/bin/Debug/ImageViewer.vshost.exe.config
+ImageViewer/bin/Debug/ImageViewer.vshost.exe.manifest
+ImageViewer/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+ImageViewer/obj/Debug/ImageViewer.csproj.FileListAbsolute.txt
+ImageViewer/obj/Debug/ImageViewer.csproj.GenerateResource.Cache
+ImageViewer/obj/Debug/ImageViewer.csprojResolveAssemblyReference.cache
+ImageViewer/obj/Debug/ImageViewer.exe
+ImageViewer/obj/Debug/ImageViewer.frmPreferences.resources
+ImageViewer/obj/Debug/ImageViewer.frmViewPictures.resources
+ImageViewer/obj/Debug/ImageViewer.Properties.Resources.resources
+ImageViewer/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+ImageViewer/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+ImageViewer/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Setup/Setup/Express/DVD-5/DiskImages/DISK1/0x0409.ini
+Setup/Setup/Express/DVD-5/DiskImages/DISK1/ISSetupPrerequisites/{72D7E3D1-C9DF-4FA6-9F9B-4E5117AB2919}/dotnetfx45_full_x86_x64.exe
+Setup/Setup/Express/DVD-5/DiskImages/DISK1/program files/InsiteInternational/ImageViewer/ImageViewer.exe
+Setup/Setup/Express/DVD-5/DiskImages/DISK1/program files/InsiteInternational/ImageViewer/ImageViewer.exe.config
+Setup/Setup/Express/DVD-5/DiskImages/DISK1/Setup.ini
+Setup/Setup/Express/DVD-5/LogFiles/10-28-2016 10-27-16 AM.txt
+Setup/Setup/Express/DVD-5/Reports/10-28-2016 10-27-17 AM.htm
